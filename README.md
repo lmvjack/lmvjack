@@ -1,4 +1,5 @@
 Tech enthusiast and programmer. 🔋 Currently pursuing a bachelor's in Computer Science at the University of Genoa. 🔌
+
 Currently learning RISC-V architecture.
 I'm constantly exploring new technologies and looking for fun stuff to get my hands on. Here's some:
 
