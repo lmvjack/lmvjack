@@ -2,7 +2,7 @@ Tech enthusiast and programmer. 🔋 Currently pursuing a bachelor's in Computer
 
 I'm constantly exploring new technologies and looking for fun stuff to get my hands on.
 ## Main stack
-The languages I'm more interested in.
+The languages I'm most interested in.
 <div style="display: flex; flex-direction: row;">
   <img height="40" alt="python" src="tags/python.png">
   <img height="40" alt="C" src="tags/c.png">
