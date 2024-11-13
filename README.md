@@ -28,6 +28,7 @@ Languages or technologies I've used in university or I've started learning on my
   <img height="40" alt="Java" src="tags/java.png">
   <img height="40" alt="Arduino" src="tags/arduino.png">
   <img height="40" alt="Swift" src="tags/swift.png">
+  <img height="40" alt="Svelte" src="tags/svelte.png">
 </div>
 
 
