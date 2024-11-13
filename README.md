@@ -1,8 +1,33 @@
 Tech enthusiast and programmer. 🔋 Currently pursuing a bachelor's in Computer Science at the University of Genoa. 🔌
+I'm constantly exploring new technologies and looking for fun stuff to get my hands on.
+## Main stack
+The languages I'm more interested in.
+<div style="display: flex; flex-direction: row;">
+  <img height="40" alt="python" src="tags/python.png">
+  <img height="40" alt="C" src="tags/c.png">
+  <img height="40" alt="C++" src="tags/c++.png">
+  <img height="40" alt="JavaScript" src="tags/javascript.png">
+</div>
 
-Currently learning RISC-V architecture.
-I'm constantly exploring new technologies and looking for fun stuff to get my hands on. Here's some:
+## Web stack
+Even if it's not my current focus, my programming journey started mainly with web development.
+<div style="display: flex; flex-direction: row;">
+  <img height="40" alt="HTML" src="tags/HTML.png">
+  <img height="40" alt="CSS" src="tags/CSS.png">
+  <img height="40" alt="TailWind" src="tags/tailwind.png">
+  <img height="40" alt="Vue" src="tags/vue.png">
+  <img height="40" alt="Nuxt" src="tags/nuxt.png">
+  <img height="40" alt="Supabase" src="tags/supabase.png">
+</div>
 
-<img width="545" alt="Screenshot 2024-04-03 at 00 31 35" src="https://github.com/lmvjack/lmvjack/assets/128551472/05515379-b5a1-4a3b-aa2c-d04bbf972cc1">
+## Other technologies
+Languages or technologies I've used in university or I've started learning on my own.
+<div style="display: flex; flex-direction: row;">
+  <img height="40" alt="F#" src="tags/fsharp.png">
+  <img height="40" alt="Java" src="tags/java.png">
+  <img height="40" alt="Arduino" src="tags/arduino.png">
+  <img height="40" alt="Swift" src="tags/swift.png">
+</div>
 
-Visit my personal website: [https://lmvjack.vercel.app/](https://lmvjack.vercel.app/)
+
+Visit my personal website to learn more about me: [https://lmvjack.vercel.app/](https://lmvjack.vercel.app/)
