@@ -30,6 +30,3 @@ Languages or technologies I've used in university or I've started learning on my
   <img height="40" alt="Swift" src="tags/swift.png">
   <img height="40" alt="Svelte" src="tags/svelte.png">
 </div>
-
-
-Visit my personal website to learn more about me: [https://lmvjack.vercel.app/](https://lmvjack.vercel.app/)
