@@ -8,7 +8,7 @@ Tech enthusiast and programmer. 🔋 Currently pursuing a bachelor's in Computer
   <img height="40" alt="JavaScript" src="tags/javascript.png">
 </div>
 
-## Web stack
+### Web stack
 <div style="display: flex; flex-direction: row;">
   <img height="40" alt="HTML" src="tags/HTML.png">
   <img height="40" alt="CSS" src="tags/CSS.png">
@@ -18,7 +18,7 @@ Tech enthusiast and programmer. 🔋 Currently pursuing a bachelor's in Computer
   <img height="40" alt="Supabase" src="tags/supabase.png">
 </div>
 
-## Other technologies
+### Other technologies
 <div style="display: flex; flex-direction: row;">
   <img height="40" alt="F#" src="tags/fsharp.png">
   <img height="40" alt="Java" src="tags/java.png">
