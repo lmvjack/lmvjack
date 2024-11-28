@@ -1,7 +1,6 @@
 Tech enthusiast and programmer. 🔋 Currently pursuing a bachelor's in Computer Science at the University of Genoa. 🔌
 
 ## Main stack
-The languages I'm most interested in.
 <div style="display: flex; flex-direction: row;">
   <img height="40" alt="python" src="tags/python.png">
   <img height="40" alt="C" src="tags/c.png">
@@ -10,7 +9,6 @@ The languages I'm most interested in.
 </div>
 
 ## Web stack
-Even if it's not my current focus, my programming journey started mainly with web development.
 <div style="display: flex; flex-direction: row;">
   <img height="40" alt="HTML" src="tags/HTML.png">
   <img height="40" alt="CSS" src="tags/CSS.png">
@@ -21,7 +19,6 @@ Even if it's not my current focus, my programming journey started mainly with we
 </div>
 
 ## Other technologies
-Languages or technologies I've used in university or I've started learning on my own.
 <div style="display: flex; flex-direction: row;">
   <img height="40" alt="F#" src="tags/fsharp.png">
   <img height="40" alt="Java" src="tags/java.png">
