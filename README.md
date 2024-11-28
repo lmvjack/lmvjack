@@ -1,6 +1,5 @@
 Tech enthusiast and programmer. 🔋 Currently pursuing a bachelor's in Computer Science at the University of Genoa. 🔌
 
-I'm constantly exploring new technologies and looking for fun stuff to get my hands on.
 ## Main stack
 The languages I'm most interested in.
 <div style="display: flex; flex-direction: row;">
